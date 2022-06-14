@@ -299,7 +299,7 @@ button {
 }
 
 .header_information {
-     background-color: #00aeef;
+     background-color: #5c7234;
      padding: 0 0;
      padding-top: 0px;
      padding-top: 0px;
@@ -383,7 +383,7 @@ button {
 }
 
 .carousel-indicators .active {
-     background: #00aeef;
+     background: #5c7234;
 }
 
 .carousel-indicators li {
@@ -424,7 +424,8 @@ button {
 
 .carousel-caption a {
      font-size: 17px;
-     background-color: #00aeef;
+     background-color: #5c7234
+;
      color: #fff;
      font-weight: 500;
      padding: 13px 0px;
@@ -460,7 +461,7 @@ button {
 }
 
 .titlepage span {
-     background: #00a8e7;
+     background: #5c7234;
      display: block;
      height: 10px;
      width: 90px;
@@ -482,7 +483,7 @@ button {
      text-align: center;
      display: inline-block;
      border-radius: 30px;
-     border: #00aaea solid 3px;
+     border: #8f7969 solid 3px;
      transition: ease-in all 0.5s;
 }
 
@@ -491,7 +492,7 @@ button {
 }
 
 .read_more:hover {
-     background: #00aaea;
+     background: #8f7969;
      color: #fff !important;
      transition: ease-in all 0.5s;
 }
@@ -626,7 +627,7 @@ button {
 
 .jonu strong {
      display: block;
-     color: #00aeef;
+     color: #5c7234;
      font-size: 17px;
      padding-bottom: 50px;
 }
@@ -653,7 +654,7 @@ button {
 /** contact section **/
 
 .contact {
-     background: #042431;
+     background: #6d706e;
      margin-top: 90px;
      padding: 90px 0;
 }
@@ -680,7 +681,8 @@ button {
      background-color: transparent;
      text-transform: uppercase;
      font-weight: 500;
-     border: #00aeef solid 3px;
+     border: #5c7234
+ solid 3px;
      color: #f9fcfd;
      padding: 8px 0px;
      margin: 0 auto;
@@ -692,7 +694,8 @@ button {
 }
 
 .main_form .send_btn:hover {
-     background-color: #00aeef;
+     background-color: #5c7234
+;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -750,7 +753,8 @@ button {
      background-color: transparent;
      text-transform: uppercase;
      font-weight: 500;
-     border: #00aeef solid 3px;
+     border: #5c7234
+ solid 3px;
      color: #4d636c;
      padding: 5px 0px;
      margin-bottom: 5px;
@@ -761,7 +765,8 @@ button {
 }
 
 .submit:hover {
-     background-color: #00aeef;
+     background-color: #5c7234
+;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -790,7 +795,8 @@ ul.cont li {
 .copyright {
      margin-top: 90px;
      padding: 20px 0px;
-     background-color: #00aeef;
+     background-color: #5c7234
+;
 }
 
 .copyright p {
